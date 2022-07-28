@@ -1,4 +1,4 @@
-# Multilingual (Arabic/English) speech recognition system trained on Egyptian slang using Gaussian mixture model-hidden Markov model (HMM-GMM) with named-entity recognition (NER) for anonymization.
+## Multilingual (Arabic/English) speech recognition system trained on Egyptian slang using Gaussian mixture model-hidden Markov model (HMM-GMM) with named-entity recognition (NER) for anonymization.
 
 - Using the desktop-application you can choose the audio to transcribe it and generate the medical entities in the record.
 - You can play the audio.
